@@ -3,7 +3,7 @@
 Facial Emotion Recognition using Open-CV <br/>
 This project recognizes facial emotions such as Angry, Disgust, Fear, Happy, Neutral, Sad and Surprise in real time.<br/>
 It includes seven classes which are mentioned above.<br/>
-This is created using a Deep Learning Model and trained it using different samples of Images and used the trained model to predict the emotions.<br/>
+This is created using a Deep Learning Model and trained the model using different samples of Images to predict the emotions.<br/>
 <br/>
 To run the project:<br/>
 -- Just run the python file "detection.py"<br/>
